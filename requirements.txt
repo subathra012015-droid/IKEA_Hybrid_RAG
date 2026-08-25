@@ -1,2 +1,11 @@
+# Install dependencies for the project
+
 python-dotenv
 pydantic-settings
+
+# Install LangChain website-loader dependencies
+
+langchain
+langchain-community
+beautifulsoup4
+requests

@@ -24,6 +24,7 @@ class Settings(BaseSettings):
     # IKEA
     ikea_allowed_domain: str = "ikea.com"
     ikea_faq_urls: str = "https://www.ikea.com/us/en/customer-service/faq/"
+    user_agent: str = "IKEA_Hybrid_RAG/1.0"
 
     model_config = SettingsConfigDict(
         env_file=".env",
