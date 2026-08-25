@@ -9,3 +9,35 @@ langchain
 langchain-community
 beautifulsoup4
 requests
+
+# Install LangChain text-splitters dependencies
+
+python-dotenv
+pydantic-settings
+requests
+beautifulsoup4
+langchain
+langchain-community
+langchain-text-splitters
+
+# Install LangChain retrievers dependencies
+
+python-dotenv
+pydantic-settings
+
+# Install LangChain retrievers dependencies
+
+requests
+beautifulsoup4
+
+# Install LangChain retrievers dependencies
+
+langchain
+langchain-community
+langchain-text-splitters
+langchain-openai
+langchain-chroma
+
+# Install LangChain retrievers dependencies
+chromadb
+rank-bm25
